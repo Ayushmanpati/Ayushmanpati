@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**Ayushmanpati/Ayushmanpati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Ayushman, a Computer Science & Engineering undergraduate interested in Artificial Intelligence, Machine Learning, and Computer Vision.
+I enjoy building practical systems and learning by turning ideas into working solutions.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on AI, ML, and Computer Vision projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning advanced ML pipelines, system design, and optimization
+
+👯 I’m looking to collaborate on ML, CV, and data-driven projects
+
+💬 Ask me about C, Python, Machine Learning, or Computer Vision
+
+🎯 My goal is to build scalable, real-world AI systems
+
+⚡ Fun facts:
+
+I love basketball 🏀
+
+Prefer black coffee ☕
+
+Enjoy problem-solving more than Academics & theory
+
+Big fan of Anime!
+
