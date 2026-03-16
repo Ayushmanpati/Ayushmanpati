@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush!</h1>
-<h3 align="center">I’m Ayushman, a Computer Science & Engineering undergraduate interested in Artificial Intelligence, Machine Learning, and Computer Vision. I enjoy building practical systems and learning by turning ideas into working solutions.</h3>
+<h3 align="center">I’m Ayushman, CSE undergrad building cool things with AI, Machine Learning, and Computer Vision.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushmanpati" alt="ayushmanpati" /></a> </p>
 
